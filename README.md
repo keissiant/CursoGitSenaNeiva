@@ -1,11 +1,13 @@
 ## Creando mi primer README.MD
 
- - Esta es una **lista basida**
- - Esta es una **lista basida**
- - Esta es una **lista basida**
+- Esta es una **lista basida**
+- Esta es una **lista basida**
+- Esta es una **lista basida**
 
-*TEXTO EN CURSIVA*
+_TEXTO EN CURSIVA_
 
-| # |Cursos  | mini clase|
-|--|--|--|
-|  1| Github | Javascript|
+| #   | Cursos | mini clase |
+| --- | ------ | ---------- |
+| 1   | Github | Javascript |
+
+> Esto es una cita en un archivo .md
